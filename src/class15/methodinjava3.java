@@ -12,8 +12,8 @@ public class methodinjava3 {
     }
 
     public static void main(String[] args) {
-        methodinjava3 e2 = new methodinjava3();
-        int sum = e2.sumarr(new int [] {10,10,10});
+        methodinjava3 vas87 = new methodinjava3();
+        int sum = vas87.sumarr(new int [] {10,10,10});
         System.out.println(sum);
     }
 }
